@@ -1,6 +1,7 @@
 ﻿Feature: Verifyinvalidjourney
 
-A short summary of the feature
+As a Senior Test Analyst i want to Verify that the widget does not provide results when an invalid
+journey is planned.
 
 @tag1
 Scenario: verifyinvalid journey

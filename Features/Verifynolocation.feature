@@ -1,6 +1,7 @@
 ﻿Feature: Verifynolocation
 
-A short summary of the feature
+As a Senior Test Analyst I want to Verify that the widget is unable to plan a journey if no locations
+are entered into the widget.
 
 @tag1
 Scenario: Verifynolocation

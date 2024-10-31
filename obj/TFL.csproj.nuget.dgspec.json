@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Documents\\Automation\\TFL\\TFL.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\Automation_GIT\\TFL_Coding\\TFL_CodingChallenge\\TFL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Documents\\Automation\\TFL\\TFL.csproj": {
+    "C:\\Users\\Administrator\\Documents\\Automation_GIT\\TFL_Coding\\TFL_CodingChallenge\\TFL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\Automation\\TFL\\TFL.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\Automation_GIT\\TFL_Coding\\TFL_CodingChallenge\\TFL.csproj",
         "projectName": "TFL",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\Automation\\TFL\\TFL.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\Automation_GIT\\TFL_Coding\\TFL_CodingChallenge\\TFL.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\Automation\\TFL\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\Automation_GIT\\TFL_Coding\\TFL_CodingChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

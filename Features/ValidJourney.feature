@@ -3,7 +3,9 @@
 As a Senior Test Analyst I want to Verify that a valid journey can be planned using the widget
 from “Leicester Square Underground Station” to “Covent Garden Underground Station”. 
 And I want to Validate the result for both walking and cycling time.
-
+Then I click “Edit preferences”, select routes
+with least walking, and update journey and validate the journey time
+Then Click on “View Details” Verify complete access information at Covent Garden Underground Station
 
 @tag1
 Scenario: Validate the Time

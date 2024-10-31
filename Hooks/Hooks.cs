@@ -3,7 +3,6 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Edge;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium;
-using TechTalk.SpecFlow;
 using TFL.Configuration;
 using Microsoft.Extensions.Configuration;
 
@@ -20,18 +19,11 @@ namespace TFL.Hooks
             LoadConfiguration();
         }
 
-        [BeforeScenario("@tag1")]
-        public void BeforeScenarioWithTag()
-        {
-            //tagged hooks
-        }
-
         [BeforeTestRun]
         public static void BeforeHomePageFeature(IObjectContainer _container)
         {
-            //IWebDriver driver=new ChromeDriver();
-
-            string browser = "Chrome"; // You can switch to "Firefox", "Edge", etc.
+           
+            string browser = "Chrome"; 
 
             IWebDriver driver = null;
 
